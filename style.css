@@ -1,0 +1,49 @@
+#OlaMundo {
+font-family: Arial, Helvetica, sans-serif;
+font-size: 20px;
+color: black;
+padding: 5px 10px;
+background-color: grey;
+border-radius: 50px;
+display: inline-block;
+}
+
+body {
+    margin: 0;
+    padding: 0;
+    font-family: Impact;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+
+#Calcular {
+    font-family: Arial, Helvetica, sans-serif;
+
+}
+
+.elemento button{
+    width: 260px;
+    margin-bottom: 30px;
+    padding: 10px;
+}
+
+.mudarElementoName input{
+    display: flex;
+    flex-direction:column;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 10px;
+    width: 260px;
+}
+
+.btn-name{
+    margin-bottom: 20px;
+    width: 260px;
+}
+
+.btn-class{
+    margin-bottom: 30px;
+}
